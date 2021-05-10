@@ -1,3 +1,5 @@
+//Take input from the user for the  N number of elements and print the entire array after that
+
 #include<iostream>
 using namespace std;
 int main()
