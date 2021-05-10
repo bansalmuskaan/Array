@@ -1,3 +1,5 @@
+//demonstration of Dynamic array
+
 #include<iostream>
 using namespace std;
 int main()
