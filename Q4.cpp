@@ -12,9 +12,9 @@ int main()
 	min=max=arr[0];
 	for(int i=0;i<n;i++)
 	{
-		if(min<arr[i])
+		if(arr[i]<min)
 			min=arr[i];
-		if(max>arr[i])
+		if(arr[i]>max)
 			max=arr[i];
 	}
 	cout<<"min="<<min<<endl<<"max="<<max;
