@@ -4,3 +4,5 @@ An array is a data structure, which can store a fixed-size collection of element
 Under this repo I had committed basic to intermediate arrays programs using C++.
 
 This repo mainly follows all commonly questions and solutions which I had practise during my college year.
+
+Sources of all these questions are various online coding platforms. 
